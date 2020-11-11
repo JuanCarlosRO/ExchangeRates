@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="not_network_connection_txt">No hay conexión a internet...</string>
+</resources>
